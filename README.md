@@ -3,4 +3,4 @@ My name is Jiamin.
 
 Edit through Code . or the Code <filename> command
 
-hope this dont cause much trouble
+this is cause the trouble
