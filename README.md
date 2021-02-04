@@ -3,4 +3,4 @@ My name is Jiamin.
 
 Edit through Code . or the Code <filename> command
 
-just some updates, updates through "updates" branch
+hope this dont cause much trouble
